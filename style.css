@@ -1,0 +1,39 @@
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+
+}
+body
+{
+margin: 0;
+text-align: center;
+}
+.top
+{
+    background-color: #e4f5f9;
+    position: relative;
+    padding: 100px;
+    font-family: 'Merriweather', serif;
+}
+.pro
+{
+    margin-top: 10px;
+}
+
+    
+    
+
+  
+
+.c{
+    position: absolute;
+   right: 500px;
+  top: 50px;
+}
+.c1
+{
+    position: absolute;
+   right:900px;
+   margin-top: 40px;
+}
